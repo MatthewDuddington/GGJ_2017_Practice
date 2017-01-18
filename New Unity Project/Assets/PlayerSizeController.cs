@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class PlayerSizeController : MonoBehaviour {
 
-    public GameObject GameManager; 
+    public heartBeatController HB; 
 
 
 	// Use this for initialization
@@ -16,6 +16,6 @@ public class PlayerSizeController : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		
+        transform.localScale = new Vector3 (1, HB.getCurrentSize(), 1);
 	}
 }
