@@ -4,9 +4,11 @@
 [Tt]emp/
 [Oo]bj/
 [Bb]uild
-/[Ll]ibrary/
+*/[Ll]ibrary/
 sysinfo.txt
 *.stackdump
+
+New Unity Project/Library/
 
 *.pidb.meta
 
@@ -40,3 +42,4 @@ sysinfo.txt
 ehthumbs.db
 [Tt]humbs.db
 [Dd]esktop.ini
+
