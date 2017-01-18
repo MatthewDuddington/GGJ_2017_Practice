@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 New Unity Project/Library/
 /[Ll]ibrary/
 /[Tt]emp/
@@ -20,14 +21,54 @@ ExportedObj/
 *.booproj
 *.svd
 *.pdb
-
-
-# Unity3D generated meta files
-*.pidb.meta
-
-# Unity3D Generated File On Crash Reports
+=======
+# =============== #
+# Unity generated #
+# =============== #
+[Tt]emp/
+[Oo]bj/
+[Bb]uild
+*/[Ll]ibrary/
 sysinfo.txt
+*.stackdump
+>>>>>>> 21a2f3fae0190197632397a8ef2922bb316bb300
+
+New Unity Project/Library/
+
+*.pidb.meta
 
 # Builds
 *.apk
+<<<<<<< HEAD
 *.unitypackage
+=======
+*.unitypackage
+ 
+# ============================================= #
+# Visual Studio / MonoDevelop / Rider generated #
+# ============================================= #
+[Ee]xported[Oo]bj/
+.vs/
+/*.userprefs
+/*.csproj
+/*.pidb
+/*.suo
+/*.sln*
+/*.user
+/*.unityproj
+/*.booproj
+/*.svd
+/.idea*/
+ 
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store*
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+[Tt]humbs.db
+[Dd]esktop.ini
+
+>>>>>>> 21a2f3fae0190197632397a8ef2922bb316bb300
